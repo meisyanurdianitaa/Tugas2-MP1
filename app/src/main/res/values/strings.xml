@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Faeyza</string>
+    <string name="content_price">Rp. 345.000</string>
+    <string name="content_text">Barang yang kami jual terjamin 100% Original
+Dimana harga miring karena stock lama. barang yang kami jual sama standarisasinya dengan yang distore karena satu pabrik dengan produksi brand Coach sendiri. TRUSTED!!!</string>
+    <string name="content_display">Zara</string>
+    <string name="content_dikirim">DKI Jakarta, Kota Jakarta Barat</string>
+    <string name="content_produk"><b>Z31979 Tas Zara Original</b></string>
+    <string name="content_kondisi">Produk Baru</string>
+    <string name="content_kategori">Tas</string>
+    <string name="content_stok">Stok</string>
+</resources>
